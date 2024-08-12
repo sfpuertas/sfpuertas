@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone!🙌 <br/> I'm Sebastian Puertas</h1>
 <h3 align="center">A fullstack dev from Buenos Aires 🇦🇷</h3>
 
-[![banner.jpg](https://i.postimg.cc/L4BRqPvV/banner.jpg)](https://postimg.cc/MXTgNvCc)
+[![banner.jpg](https://i.postimg.cc/zvtpWytT/banner.jpg)](https://postimg.cc/MXTgNvCc)
 <br/>
 
 ##☕ About me
